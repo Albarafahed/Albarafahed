@@ -167,6 +167,11 @@ The website includes:
 **Albara Fahed Alharissy**
 IT Student | C# .NET Developer
 
-🌐 Website: https://albarafahed.github.io/my_website/
-LinkedIn: https://www.linkedin.com/in/albara-csharp-developer/
-GitHub: https://github.com/Albarafahed
+🌐 **Website:**  
+https://albarafahed.github.io/my_website/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/albara-csharp-developer/
+
+💻 **GitHub:**  
+https://github.com/Albarafahed
