@@ -39,8 +39,9 @@ I enjoy learning software engineering concepts and building practical projects t
 - DataGridView
 - SQL Server Integration
 
-## Software Engineering
+# Software Engineering
 - Object-Oriented Programming (OOP)
+- SOLID Principles (applied at a foundational level)
 - 3-Tier / N-Tier Architecture
 - Database Design
 
