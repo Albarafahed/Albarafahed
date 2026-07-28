@@ -1,177 +1,146 @@
-# 👋 Hi, I'm Albara Fahed Alharissy
+# Hi there 👋 I'm Albara Fahed Alharissy
 
-![C#](https://img.shields.io/badge/Language-C%23-blue)
-![.NET](https://img.shields.io/badge/Framework-.NET-purple)
-![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+<div align="center">
 
-## 💻 IT Student | C# .NET Developer
+### Junior C#/.NET Backend Developer
 
-I'm an IT student focused on C# and .NET, building desktop applications through hands-on practice projects.
+Building reliable backend solutions with **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
 
-My main focus is applying structured architecture (3-Tier), clean code practices, and relational database design in real, working applications — not just theory.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24E6FF?style=for-the-badge)](https://albarafahed.github.io/my_website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/albara-csharp-developer/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Albarafahed)
 
-I enjoy learning software engineering concepts and building practical projects that simulate real-world business systems.
-
----
-
-# 🚀 About Me
-
-- 🔹 IT student specializing in C# and .NET.
-- 🔹 Practiced building Windows Forms applications using layered (3-Tier) architecture.
-- 🔹 Currently studying backend development with ASP.NET Core.
-- 🔹 Applied database design and SQL Server in multiple practice projects.
-- 🔹 Passionate about software engineering fundamentals and continuous learning.
+</div>
 
 ---
 
-# 🛠 Technology Stack
+## 🚀 About Me
 
-## Programming Languages
+I'm **Albara Fahed Alharissy**, a 4th-year Information Technology student and Junior .NET Backend Developer passionate about building clean, maintainable, and scalable backend systems.
+
+My journey started with desktop application development using **C# WinForms**, where I built several management systems following **3-Tier Architecture**, **SOLID Principles**, and **SQL Server** best practices.
+
+Today, I'm focused on backend development with **ASP.NET Core**, **Entity Framework Core**, **REST APIs**, and clean software architecture while continuously expanding my software engineering skills.
+
+---
+
+# 💻 Tech Stack
+
+### Backend
+
 - C#
-- C++
-- SQL
-
-## Desktop Development
-- Windows Forms
-- .NET Framework
-- ADO.NET
-- DataGridView
-- SQL Server Integration
-
-# Software Engineering
-- Object-Oriented Programming (OOP)
-- SOLID Principles (applied at a foundational level)
-- 3-Tier / N-Tier Architecture
-- Database Design
-
-## Tools
-- Visual Studio
-- Git & GitHub
-- SQL Server Management Studio
-
-## 📖 Currently Learning
+- .NET
 - ASP.NET Core Web API
 - Entity Framework Core
-- RESTful APIs
-- Design Patterns
+- LINQ
+- REST APIs
 
-*(These are in progress — not yet applied in a shipped project. I'll move them up once I have a real project built with them.)*
+### Database
+
+- SQL Server
+- T-SQL
+- Database Design
+
+### Software Engineering
+
+- OOP
+- SOLID Principles
+- Clean Architecture
+- 3-Tier Architecture
+- N-Tier Architecture
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- Postman
+- SQL Server Management Studio
 
 ---
 
-# 📂 Featured Projects
+# 📌 Featured Projects
 
-## 🚗 DVLD - Drivers, License & Vehicle Department System
-A desktop management system built as a practice project using:
+### 🚗 Drivers & Vehicle Licensing System
+
+Desktop management system built with:
+
 - C#
-- Windows Forms
+- WinForms
 - SQL Server
 - 3-Tier Architecture
 
-Features:
-- Driver management
-- License management
-- Testing workflow
-- User management
-- Database-driven operations
-
 ---
 
-## 🏥 Clinic Management System
-A Windows Forms practice project managing clinic operations end-to-end.
+### 🏥 Clinic Management System
 
-Technologies:
+Management system for clinics featuring patients, doctors, appointments, pharmacy, and cashier modules.
+
+Built with:
+
 - C#
-- .NET Framework
 - SQL Server
 - ADO.NET
-- 3-Tier Architecture
-
-Main modules:
-- Patients management
-- Doctors management
-- Appointments
-- Visits
-- Medical services
-- Pharmacy
-- Cashier operations
 
 ---
 
-## 🏠 Real Estate Management System
-A practice project managing clients, properties, and contracts using N-Tier architecture.
+### 🏠 Real Estate Management System
 
-Technologies:
+Desktop application for managing clients, properties, contracts, and payments.
+
+Built with:
+
 - C#
 - .NET
 - SQL Server
 - ADO.NET
+- N-Tier Architecture
 
 ---
 
-## 🍕 Pizza Ordering Management System
-A practice project for a food ordering system using a layered service structure (UI → Service Layer → JSON persistence).
+### 📇 Contacts Management System
 
-Technologies:
-- C#
-- .NET Framework
-- WinForms
+Desktop CRUD application demonstrating layered architecture and SQL Server integration.
 
 ---
 
-## 📇 Contacts Management System
-A desktop contact management practice application built using:
-- C# WinForms
-- SQL Server
-- ADO.NET
-- 3-Tier Architecture
+# 📖 Currently Learning
 
-Features:
-- Contact CRUD operations
-- Country support
-- Image path handling
-- DataGridView management
+- Advanced ASP.NET Core
+- Authentication & Authorization
+- Entity Framework Core
+- Clean Architecture
+- Design Patterns
+- Docker
 
 ---
 
-# 🧠 Engineering Practices
+# 📈 GitHub Statistics
 
-I apply, at a practice-project level:
-- Object-Oriented Programming
-- Separation of Concerns
-- Layered Architecture
-- Database design and relationships
-- Readable, maintainable code structure
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albarafahed&show_icons=true&theme=transparent)
 
-# 🌐 Personal Website
-🔗 https://albarafahed.github.io/my_website/
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albarafahed&layout=compact&theme=transparent)
 
-The website includes:
-- About Me
-- Skills
-- Projects
-- Contact information
+</div>
 
 ---
 
-# 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Albarafahed&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Albarafahed&layout=compact&hide_border=true)
+# 🌐 Portfolio
+
+**Website**
+
+https://albarafahed.github.io/my_website/
 
 ---
 
 # 📫 Contact
-**Albara Fahed Alharissy**
-IT Student | C# .NET Developer
 
-🌐 **Website:**  
-https://albarafahed.github.io/my_website/
+- 💼 LinkedIn: https://www.linkedin.com/in/albara-csharp-developer/
+- 🌐 Portfolio: https://albarafahed.github.io/my_website/
+- 💻 GitHub: https://github.com/Albarafahed
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/albara-csharp-developer/
+---
 
-💻 **GitHub:**  
-https://github.com/Albarafahed
+> *"Always learning, always building, always improving."*
