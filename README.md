@@ -133,7 +133,8 @@ Features:
 - Pharmacy
 - Cashier
 - Medical Services
-
+###  Repository:
+🔗 https://github.com/Albarafahed/Clinic-Windows-Form-CSharp
 ---
 
 ## 🏠 Real Estate Management System
@@ -144,7 +145,9 @@ Property management system built with:
 - SQL Server
 - ADO.NET
 - N-Tier Architecture
-
+  
+###  Repository:
+🔗 https://github.com/Albarafahed/RealEstateSolution-Windows-Form-CSharp
 ---
 
 ## 📇 Contacts Management System
@@ -152,10 +155,12 @@ Property management system built with:
 Desktop CRUD application demonstrating:
 
 - SQL Server
-- ADO.NET
+- EF Core
 - WinForms
 - Layered Architecture
 
+###  Repository:
+🔗 https://github.com/Albarafahed/Contact-Windows-Form-CSharp
 ---
 
 ## 🍕 Pizza Ordering Management System
@@ -167,6 +172,8 @@ Desktop ordering system built with:
 - JSON Persistence
 - Layered Architecture
 
+###  Repository:
+🔗 https://github.com/Albarafahed/Pizza-Ordering-Management-System--Windows-Form-CSharp
 ---
 
 # 📖 Currently Learning
