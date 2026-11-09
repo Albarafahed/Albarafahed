@@ -105,7 +105,7 @@ I'm continuously improving my backend development and software engineering skill
 - Git & GitHub
 - Visual Studio
 - SQL Server Management Studio
-- Postman
+
 
 ---
 
